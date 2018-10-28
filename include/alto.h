@@ -28,6 +28,7 @@
 /** @brief get the integer type definitions */
 #include "altoint.h"
 
+#include <stddef.h>
 /** @brief type to hold nano seconds */
 typedef int64_t	ntime_t;
 
