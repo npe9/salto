@@ -1,0 +1,4 @@
+asm/helloworld.lst
+bin/*
+obj/*
+temp/*
